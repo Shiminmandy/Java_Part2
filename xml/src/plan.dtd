@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!ELEMENT plan (course+)>
+<!ELEMENT course (name,hour,exam-form)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT hour (#PCDATA)>
+<!ELEMENT exam-form (#PCDATA)>
