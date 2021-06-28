@@ -17,5 +17,10 @@
         <exam-form>上机考试</exam-form>
     </course>
 
-    
+
+    <course id="004">
+        <name>大学物理</name>
+        <hour>60</hour>
+        <exam-form>考试</exam-form>
+    </course>
 </plan>
